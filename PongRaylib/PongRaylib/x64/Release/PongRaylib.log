@@ -1,0 +1,9 @@
+﻿  PongRaylib.cpp
+C:\Users\sobre\Desktop\C++ Projects\Raylib\Pong\PongRaylib\PongRaylib\PongRaylib.cpp(33,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  PongRaylib.vcxproj -> C:\Users\sobre\Desktop\C++ Projects\Raylib\Pong\PongRaylib\x64\Release\PongRaylib.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.

@@ -1,0 +1,8 @@
+﻿  Ball.cpp
+C:\Users\sobre\Desktop\C++ Projects\Raylib\Pong\PongRaylib\PongRaylib\Ball.h(15,27): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sobre\Desktop\C++ Projects\Raylib\Pong\PongRaylib\PongRaylib\Ball.cpp(19,16): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sobre\Desktop\C++ Projects\Raylib\Pong\PongRaylib\PongRaylib\Ball.cpp(19,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\sobre\Desktop\C++ Projects\Raylib\Pong\PongRaylib\PongRaylib\Ball.cpp(51,9): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  PongRaylib.vcxproj -> C:\Users\sobre\Desktop\C++ Projects\Raylib\Pong\PongRaylib\x64\Debug\PongRaylib.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
